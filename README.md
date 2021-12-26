@@ -1,2 +1,3 @@
-# Contract
-This template is for your grading contract
+# Read Me
+
+This readme is for the contract template.
