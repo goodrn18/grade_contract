@@ -5,9 +5,9 @@ Demo Grading Contract
 
 # Contract Grades – “A” Contract
 
-I, John Tukey, agree to :
+I, Rachel Good, agree to :
 
-1.  Earn “Satisfactory” on 12 self-paced lab assignments on the schedule
+1.  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.
     -   Satisfactory defined:
     -   I have attempted all steps of the assignment. If unable to
@@ -38,35 +38,34 @@ I, John Tukey, agree to :
     -   Finish Lab 2 by 01/21
 -   [ ] Module 03, 01/24 - 01/28 : Grammar of data wrangling
     -   Finish Lab 3 by 01/28
-    -   Finish portfolio piece 1 by 01/28
+    -   Finish portfolio piece 1 by 04/22
 -   [ ] Module 04, 01/31 - 02/04 : Data types and Data Transformations
     -   Finish Lab 4 by 02/04
 -   [ ] Module 05, 02/07 - 02/11 : Tips for effective data visualization
     -   Finish Lab 5 by 02/11
-    -   Finish portfolio piece 2 by 02/11
+    -   Finish portfolio piece 2 by 04/22
 -   [ ] Module 06, 02/14 - 02/18 : Scientific studies and confounding
     -   Finish Lab 6 by 02/18
 -   [ ] Module 07, 02/21 - 02/25 : Web scraping
     -   Finish Lab 7 by 02/25
-    -   Finish portfolio piece 3 by 02/25
+    -   Finish portfolio piece 3 by 04/22
 -   [ ] Module 08, 02/28 - 03/04 : Functions
     -   Finish Lab 8 by 03/04
     -   Finish Unessay 1 due on 03/04
 -   [ ] Module 09, 03/07 - 03/11 : Data and Ethics
     -   Finish Lab 9 by 03/11
-    -   Finish portfolio piece 4 by 03/11
+    -   Finish portfolio piece 4 by 04/22
 -   [ ] Module 10, 03/14 - 03/18 : Fitting and interpreting models
     -   Finish Lab 10 by 03/18
 -   [ ] Module 11, 03/21 - 03/25 : Prediction and overfitting
     -   Finish Lab 11 by 03/25
-    -   Finish portfolio piece 5 by 03/25
--   [ ] Module 12, 03/28 - 04/01 : Cross validation
-    -   Finish Lab 12 by 04/01
-    -   Finish portfolio piece 6 by 04/01
+    -   Finish portfolio piece 5 by 04/22
+-   [ ] Module 12, 03/28 - 04/01 : Cross validation\`
+    -   Finish portfolio piece 6 by 04/22
 -   [ ] Module 13, 04/04 - 04/08 : Quantifying uncertainty
-    -   Finish portfolio pieces 7 and 8 by 04/08
+    -   Finish portfolio pieces 7 and 8 by 04/22
 -   [ ] Module 14, 04/11 - 04/15 : Interactive web apps
-    -   Finish portfolio piece 9 by 04/15
+    -   Finish portfolio piece 9 by 04/22
 -   [ ] Module 15, 04/18 - 04/22 : Special Topics
     -   Finish portfolio piece 10 by 04/22
     -   Finish Unessay 2 due on 04/22
