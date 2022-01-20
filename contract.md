@@ -8,7 +8,8 @@ Demo Grading Contract
 I, Rachel Good, agree to :
 
 1.  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
-    specified below.
+    specified below with 1 week leeway for each due date (with the
+    exception of 04/22.
     -   Satisfactory defined:
     -   I have attempted all steps of the assignment. If unable to
         complete steps due to unresolved questions, I have asked
@@ -38,17 +39,17 @@ I, Rachel Good, agree to :
     -   Finish Lab 2 by 01/21
 -   [ ] Module 03, 01/24 - 01/28 : Grammar of data wrangling
     -   Finish Lab 3 by 01/28
-    -   Finish portfolio piece 1 by 04/22
+    -   Finish portfolio piece 1 by 03/04
 -   [ ] Module 04, 01/31 - 02/04 : Data types and Data Transformations
     -   Finish Lab 4 by 02/04
 -   [ ] Module 05, 02/07 - 02/11 : Tips for effective data visualization
     -   Finish Lab 5 by 02/11
-    -   Finish portfolio piece 2 by 04/22
+    -   Finish portfolio piece 2 by 03/04
 -   [ ] Module 06, 02/14 - 02/18 : Scientific studies and confounding
     -   Finish Lab 6 by 02/18
 -   [ ] Module 07, 02/21 - 02/25 : Web scraping
     -   Finish Lab 7 by 02/25
-    -   Finish portfolio piece 3 by 04/22
+    -   Finish portfolio piece 3 by 03/04
 -   [ ] Module 08, 02/28 - 03/04 : Functions
     -   Finish Lab 8 by 03/04
     -   Finish Unessay 1 due on 03/04
