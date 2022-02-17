@@ -7,9 +7,9 @@ Demo Grading Contract
 
 I, Rachel Good, agree to :
 
-1.  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
+1.  Earn “Satisfactory” on 10 self-paced lab assignments on the schedule
     specified below with 1 week leeway for each due date (with the
-    exception of 04/22.
+    exception of 04/22).
     -   Satisfactory defined:
     -   I have attempted all steps of the assignment. If unable to
         complete steps due to unresolved questions, I have asked
@@ -41,25 +41,24 @@ I, Rachel Good, agree to :
     -   Finish Lab 3 by 01/28
     -   Finish portfolio piece 1 by 03/04
 -   [ ] Module 04, 01/31 - 02/04 : Data types and Data Transformations
-    -   Finish Lab 4 by 02/04
+    -   Finish Lab 4 by 02/25
 -   [ ] Module 05, 02/07 - 02/11 : Tips for effective data visualization
-    -   Finish Lab 5 by 02/11
+    -   Finish Lab 5 by 03/04
     -   Finish portfolio piece 2 by 03/04
 -   [ ] Module 06, 02/14 - 02/18 : Scientific studies and confounding
-    -   Finish Lab 6 by 02/18
+    -   Finish Lab 6 by 03/11
 -   [ ] Module 07, 02/21 - 02/25 : Web scraping
-    -   Finish Lab 7 by 02/25
+    -   Finish Lab 7 by 03/18
     -   Finish portfolio piece 3 by 03/04
 -   [ ] Module 08, 02/28 - 03/04 : Functions
-    -   Finish Lab 8 by 03/04
+    -   Finish Lab 8 by 03/25
     -   Finish Unessay 1 due on 03/04
 -   [ ] Module 09, 03/07 - 03/11 : Data and Ethics
-    -   Finish Lab 9 by 03/11
+    -   Finish Lab 9 by 04/01
     -   Finish portfolio piece 4 by 04/22
 -   [ ] Module 10, 03/14 - 03/18 : Fitting and interpreting models
-    -   Finish Lab 10 by 03/18
+    -   Finish Lab 10 by 04/01
 -   [ ] Module 11, 03/21 - 03/25 : Prediction and overfitting
-    -   Finish Lab 11 by 03/25
     -   Finish portfolio piece 5 by 04/22
 -   [ ] Module 12, 03/28 - 04/01 : Cross validation\`
     -   Finish portfolio piece 6 by 04/22
